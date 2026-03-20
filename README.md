@@ -25,15 +25,15 @@ Anzahl Szenen nach Dekade:
 
 Anzahl Filme nach Dekade(alle/ nach Szenenmarkierung gefiltert):
 
-2/1
-3/2
-5/3
-7/7
-3/1
-8/7
-15/10
-57/51
-72/67
-103/99
-97/93
-2/2
+-10-1: 2/1
+20er: 3/2
+30er: 5/3
+40er: 7/7
+50er: 3/1
+60er: 8/7
+70er: 15/10
+80er: 57/51
+90er: 72/67
+2000er: 103/99
+2010er: 97/93
+2020er: 2/2
